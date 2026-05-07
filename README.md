@@ -2,6 +2,76 @@
 
 > Open de box, Face the Bugs.
 
+<details>
+ <summary>Versão em Português</summary>
+ 
+ <br>
+
+Pandora é uma plataforma experimental de injeção procedural de falhas criada para transformar debugging em uma habilidade deliberada, e não apenas em uma experiência acidental.
+
+Desenvolvedores modernos passam incontáveis horas lidando com falhas inesperadas. Grande parte do conhecimento em debugging é adquirida através de frustrações, comportamentos imprevisíveis e erros em produção.
+
+Pandora nasceu de uma ideia simples:
+
+> E se falhas de software pudessem ser geradas, controladas e estudadas intencionalmente?
+
+Em vez de apenas quebrar código, Pandora busca injetar bugs realistas e plausíveis capazes de simular problemas reais de software — incluindo falhas lógicas, comportamentos instáveis, erros silenciosos e inconsistências arquiteturais.
+
+O projeto começa utilizando mutações de código em Python através de manipulação de AST, mas sua arquitetura está sendo planejada para evoluir além de uma única linguagem. A visão de longo prazo é criar uma plataforma modular e extensível capaz de suportar múltiplas linguagens, cenários de debugging e experimentos relacionados a chaos engineering.
+
+---
+
+## Filosofia
+
+Pandora não é apenas um mecanismo de mutação de código.
+
+O projeto busca explorar a natureza caótica dos sistemas de software em um ambiente controlado.
+
+Seu objetivo é ajudar desenvolvedores a:
+- aprimorar habilidades de debugging;
+- compreender padrões de falha;
+- treinar resolução de problemas;
+- estudar comportamentos imprevisíveis;
+- explorar mutações procedurais de software.
+
+---
+
+## Direção Atual
+
+Atualmente, o foco do projeto está na construção do núcleo de mutação procedural utilizando Python e AST.
+
+As primeiras etapas incluem:
+- injeção procedural de bugs;
+- sistemas de validação;
+- mutações voltadas para debugging;
+- fundações de arquitetura modular.
+
+Futuramente, Pandora deverá incluir visualização interativa em terminal, ambientes isolados de execução e sistemas avançados de simulação de falhas.
+
+---
+
+## Visão
+
+Pandora está sendo desenvolvido como uma plataforma experimental voltada para treinamento de debugging, mutação de software e conceitos de chaos engineering.
+
+O objetivo não é apenas criar código quebrado.
+
+O objetivo é criar falhas convincentes.
+
+---
+
+## Status
+
+Project Pandora está em estágio inicial de desenvolvimento.
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.
+ 
+</details>
+ 
 ---
  
 Pandora is an experimental procedural fault injection platform designed to transform debugging into a deliberate skill rather than an accidental experience.
