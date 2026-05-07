@@ -1,4 +1,4 @@
-# Project-Pandora
+# Pandora
 
 > Open de box, Face the Bugs.
  
