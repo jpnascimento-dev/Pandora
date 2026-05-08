@@ -1,6 +1,6 @@
 # Pandora
 
-> Open de box, Face the Bugs.
+> Open the box, Face the Bugs.
  
 ---
  
