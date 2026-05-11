@@ -16,21 +16,6 @@ Instead of merely breaking code, Pandora focuses on injecting realistic and plau
 
 ---
 
-## Philosophy
-
-Pandora is not a simple mutation engine.
-
-It is an attempt to explore the chaotic nature of software systems in a controlled environment.
-
-The project aims to help developers:
-- improve debugging skills;
-- understand failure patterns;
-- train problem-solving abilities;
-- study unpredictable software behavior;
-- experiment with procedural software mutations.
-
----
-
 ## Current Direction
 
 The project currently focuses on Python-based code mutation through AST manipulation, while its architecture is being designed to support multiple programming languages in the future.
